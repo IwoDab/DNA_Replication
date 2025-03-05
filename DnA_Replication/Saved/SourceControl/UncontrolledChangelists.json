@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Menu_Scene.umap",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/helix_particle.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/particle_system/helix_particle.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/Blueprint/twist.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/Blueprint/Helix.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/Helix_2.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/Helix_2_Skeleton.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/Helix_2_PhysicsAsset.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/Helix_2_Anim.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/particle_system/floating_particle.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/material/particle.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/material/glow.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/particle_system/floating2.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/W_Main_Menu.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/Gasalt-Black.uasset",
+				"T:/DNA_REPLICATION/WORK/DnA_Replication/Content/UI/Helix_import/Gasalt-Black_Font.uasset"
+			]
+		}
+	]
+}
